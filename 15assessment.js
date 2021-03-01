@@ -84,7 +84,7 @@ assessmentButton.onclick = () => {
 }
 
 console.assert(
-    resultText('太郎') === "太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。",
+    resultText('太郎') === "太郎のいいところは決断力ですな。太郎がする決断にいつも助けられる人がいます。",
     "usernameを、入力された名前に書き替えるところが間違っています"
 );
 console.assert(
